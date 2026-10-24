@@ -120,13 +120,3 @@ Capturas reales de la app corriendo en un teléfono Android.
 | Formulario con errores de validación | `capturas/07_formulario_errores.jpg` |
 | Cuadrícula con horas deshabilitadas | `capturas/08_franjas_deshabilitadas.jpg` |
 | Agenda en modo oscuro | `capturas/09_agenda_oscuro.jpg` |
-
-![Agenda](capturas/01_agenda.jpg)
-![Detalle de turno](capturas/02_detalle_turno.jpg)
-![Formulario de turno](capturas/03_formulario_turno.jpg)
-![Clientes](capturas/04_clientes.jpg)
-![Servicios](capturas/05_servicios.jpg)
-![Estilistas](capturas/06_estilistas.jpg)
-![Formulario con errores](capturas/07_formulario_errores.jpg)
-![Franjas deshabilitadas](capturas/08_franjas_deshabilitadas.jpg)
-![Agenda en modo oscuro](capturas/09_agenda_oscuro.jpg)
